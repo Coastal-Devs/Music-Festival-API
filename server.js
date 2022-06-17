@@ -34,7 +34,7 @@ const festivals = {
       const festivalName = req.params.festivalName.toLowerCase();
     
       if(Object.hasOwn(festivals, festivalName)) {
-        res.json(festivals[0][festivalName]);
+        res.json(festivals[festivalName]);
       }
     });
 
