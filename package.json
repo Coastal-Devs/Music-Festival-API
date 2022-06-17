@@ -1,0 +1,19 @@
+{
+  "name": "music-festival-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timtom619/Music-Festival-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timtom619/Music-Festival-API/issues"
+  },
+  "homepage": "https://github.com/timtom619/Music-Festival-API#readme"
+}
