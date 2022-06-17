@@ -2,10 +2,11 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 const PORT = process.env.PORT || 8000;
-
+app.use(cors()
+);
 const festivals = {
     
-        'Coachella': {
+        'coachella': {
             'location': 'Los Angeles, California',
             'date': 'April 14-16, 21-23 2023',
             'genre': 'rock, pop, indie, hip hop and electronic dance music',
@@ -14,7 +15,7 @@ const festivals = {
             'website': 'coachella.com',
             'image':'https://images.unsplash.com/photo-1505224628533-c4fc42c389e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2834&q=80',
         },
-        'Governor\'s Ball': {
+        'governor\'s ball': {
             'location': 'Citifield, New York City',
             'date': 'June 10-12, 2022',
             'genre': 'rock, pop, indie, hip hop and electronic dance music',
