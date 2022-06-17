@@ -36,3 +36,7 @@ const festivals = {
         res.json(festivals[0][festivalName]);
       }
     });
+
+    app.listen(PORT, () => {
+      console.log(`Server is running on port ${PORT}`);
+    });
