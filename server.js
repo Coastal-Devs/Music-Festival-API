@@ -17,3 +17,15 @@ const festivals = [
         }
     }
 ]
+
+app.get('/', (req, res) => {
+  res.sendFile(__dirname + '/index.html');
+})
+
+app.get('/api/:festivalName', (req, res) => {
+  const festivalName = req.params.festivalName.toLowerCase();
+
+  if(Object.hasOwn(festivals, festivalName)) {
+    res.json(festivals[0][festivalName]);
+  }
+});
