@@ -8,7 +8,17 @@ const festivals = [
             attendance: '125,000',
             website: 'coachella.com',
             picture:'',
-    
         }
+        'Governor\'s Ball': {
+            location: 'Citifield, New York City',
+            date: 'TBD',
+            genre: 'rock, pop, indie, hip hop and electronic dance music',
+            description: 'The Gov Ball experience encompasses all of these and is unlike any other festival out there. Built by New Yorkers, for New Yorkers, the festival is always evolving, always entertaining, and always striving to exceed your expectations.',
+            attendance: '150,000',
+            website: 'https://www.governorsballmusicfestival.com/',
+            picture:'',
+        }
+
+
     }
 ]

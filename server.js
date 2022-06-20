@@ -12,7 +12,7 @@ const festivals = {
             'genre': 'rock, pop, indie, hip hop and electronic dance music',
             'attendance': '125,000',
             'website': 'coachella.com',
-            'image':'https://images.unsplash.com/photo-1505224628533-c4fc42c389e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2834&q=80',
+            'image':'',
         },
     }
 
