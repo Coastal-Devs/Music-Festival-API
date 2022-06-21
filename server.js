@@ -2,40 +2,40 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 const PORT = process.env.PORT || 8000;
-app.use(cors()
-);
+app.use(cors());
+
 const festivals = {
     
     'Coachella': {
-        location: 'Los Angeles, California',
-        date: 'April 14-16, 21-23 2023',
-        genre: 'rock, pop, indie, hip hop and electronic dance music',
-        description: 'The Coachella Valley Music and Arts Festival is an annual music and arts festival held at the Empire Polo Club in Indio, California, in the Coachella Valley in the Colorado Desert. It was co-founded by Paul Tollett and Rick Van Santen in 1999, and is organized by Goldenvoice, a subsidiary of AEG Presents.',
-        attendance: '125,000',
-        website: 'coachella.com',
-        picture: 'https://media.glamour.com/photos/6254dca536f5904ec3513ffe/master/w_2560%2Cc_limit/1142665368',
+        'location': 'Los Angeles, California',
+        'date': 'April 14-16, 21-23 2023',
+        'genre': 'rock, pop, indie, hip hop and electronic dance music',
+        'description': 'The Coachella Valley Music and Arts Festival is an annual music and arts festival held at the Empire Polo Club in Indio, California, in the Coachella Valley in the Colorado Desert. It was co-founded by Paul Tollett and Rick Van Santen in 1999, and is organized by Goldenvoice, a subsidiary of AEG Presents.',
+        'attendance': '125,000',
+        'website': 'coachella.com',
+        'picture': 'https://media.glamour.com/photos/6254dca536f5904ec3513ffe/master/w_2560%2Cc_limit/1142665368',
     },
     'Governor\'s Ball': {
-        location: 'Citifield, New York City',
-        date: 'TBD',
-        genre: 'rock, pop, indie, hip hop and electronic dance music',
-        description: 'The Gov Ball experience encompasses all of these and is unlike any other festival out there. Built by New Yorkers, for New Yorkers, the festival is always evolving, always entertaining, and always striving to exceed your expectations.',
-        attendance: '150,000',
-        website: 'https://www.governorsballmusicfestival.com/',
-        picture:'https://www.governorsballmusicfestival.com/wp-content/uploads/2021/09/POST2021_0926_220307_7313_ALIVECOVERAGE_CTL_5vqeu8wjc07hb46ilr9m-scaled.jpeg',
+        'location': 'Citifield, New York City',
+        'date': 'TBD',
+        'genre': 'rock, pop, indie, hip hop and electronic dance music',
+        'description': 'The Gov Ball experience encompasses all of these and is unlike any other festival out there. Built by New Yorkers, for New Yorkers, the festival is always evolving, always entertaining, and always striving to exceed your expectations.',
+        'attendance': '150,000',
+        'website': 'https://www.governorsballmusicfestival.com/',
+        'picture':'https://www.governorsballmusicfestival.com/wp-content/uploads/2021/09/POST2021_0926_220307_7313_ALIVECOVERAGE_CTL_5vqeu8wjc07hb46ilr9m-scaled.jpeg',
     },
     'Lollapalooza': {
-        location: 'Grant Park, Chicago, Illinois',
-        date: 'July 28-31, 2022',
-        genre: 'alternative-rock, punk-rock',
-        description: 'Lollapalooza is an annual four-day music festival held in Grant Park in Chicago. It originally started as a touring event in 1991 but several years later made Chicago the permanent location for the annual music festival',
-        attendance: '385,000',
-        website: 'https://www.lollapalooza.com/',
-        picture:'https://assets-global.website-files.com/5e927ba01e4ad56ae5465eb8/62a120fd4aaf2d18b41a2569_L22-Daily-0608-1080x1350.png',
+        'location': 'Grant Park, Chicago, Illinois',
+        'date': 'July 28-31, 2022',
+        'genre': 'alternative-rock, punk-rock',
+        'description': 'Lollapalooza is an annual four-day music festival held in Grant Park in Chicago. It originally started as a touring event in 1991 but several years later made Chicago the permanent location for the annual music festival',
+        'attendance': '385,000',
+        'website': 'https://www.lollapalooza.com/',
+        'picture':'https://assets-global.website-files.com/5e927ba01e4ad56ae5465eb8/62a120fd4aaf2d18b41a2569_L22-Daily-0608-1080x1350.png',
     },
 
     'Ultra Music Festival': {
-        location: 'Miami, Florida',
+        'location': 'Miami, Florida',
         date: 'March 24-26, 2023',
         genre: 'electronic',
         description: 'Ultra Music Festival is an annual outdoor electronic music festival that takes place during March in Miami, Florida, United States. The festival was founded in 1999 by Russell Faibisch and Alex Omes and is named after the Ultra Music label.',
@@ -163,6 +163,16 @@ const festivals = {
         attendance: '8,000',
         website: 'https://ridefestival.com/',
         picture:'https://ridefestival.com/wp-content/uploads/2022/06/ride-fest_banner1-700.jpg',
+    },
+
+    'Life is Beautiful Music and Arts Festival': {
+        location: 'Downtown, Las Vegas',
+        date: 'September 16-18, 2022',
+        genre: 'music, culinary art, comedy, learning festival',
+        description: 'Life Is Beautiful Music & Art Festival is an annual music, culinary, art, and learning festival held in Downtown Las Vegas, Nevada, United States. It debuted in 2013 as a three-day event. In 2019, it was one of the world\'s highest grossing festivals with revenues of $17.7 million. ',
+        attendance: '180,000',
+        website: 'https://lifeisbeautiful.com/',
+        picture:'https://mma.prnewswire.com/media/1766386/Life_is_Beautiful_Lineup_Poster.jpg?w=400',
     },
 
 }
