@@ -165,8 +165,6 @@ const festivals = {
         picture:'https://ridefestival.com/wp-content/uploads/2022/06/ride-fest_banner1-700.jpg',
     },
 
-
-
 }
     app.get('/', (req, res) => {
       res.sendFile(__dirname + '/index.html');
