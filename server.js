@@ -24,6 +24,116 @@ const festivals = {
         website: 'https://www.governorsballmusicfestival.com/',
         picture:'https://www.governorsballmusicfestival.com/wp-content/uploads/2021/09/POST2021_0926_220307_7313_ALIVECOVERAGE_CTL_5vqeu8wjc07hb46ilr9m-scaled.jpeg',
     },
+    'Lollapalooza': {
+        location: 'Grant Park, Chicago, Illinois',
+        date: 'July 28-31, 2022',
+        genre: 'alternative-rock, punk-rock',
+        description: 'Lollapalooza is an annual four-day music festival held in Grant Park in Chicago. It originally started as a touring event in 1991 but several years later made Chicago the permanent location for the annual music festival',
+        attendance: '385,000',
+        website: 'https://www.lollapalooza.com/',
+        picture:'https://assets-global.website-files.com/5e927ba01e4ad56ae5465eb8/62a120fd4aaf2d18b41a2569_L22-Daily-0608-1080x1350.png',
+    },
+
+    'Ultra Music Festival': {
+        location: 'Miami, Florida',
+        date: 'March 24-26, 2023',
+        genre: 'electronic',
+        description: 'Ultra Music Festival is an annual outdoor electronic music festival that takes place during March in Miami, Florida, United States. The festival was founded in 1999 by Russell Faibisch and Alex Omes and is named after the Ultra Music label.',
+        attendance: '165,000',
+        website: 'https://ultramusicfestival.com/',
+        picture:'https://ultramusicfestival.com/wp-content/uploads/2022/03/2022_MIA_Billing_PH3_V1-3-scaled.jpg',
+    },
+
+    'Bonnaroo Music and Arts Festival': {
+        location: 'Great Stage Park, Manchester, Tennessee',
+        date: 'June 16-19, 2022',
+        genre: 'electronic',
+        description: 'The Bonnaroo Music and Arts Festival is an American annual four-day music festival developed and produced by Superfly Presents and AC Entertainment. Since its first year in 2002, it has been held at what is now Great Stage Park on a 700-acre farm in Manchester, Tennessee.',
+        attendance: '85,000',
+        website: 'https://www.bonnaroo.com/',
+        picture:'https://assets-global.website-files.com/5e94ab5e53b1514c1704e66e/6272d25bda78ee2077b58168_b22-lineup-v5_Press-p-1080.png',
+    },
+
+    'EDC Las Vegas': {
+        location: 'Las Vegas',
+        date: 'May 19-21, 2023',
+        genre: 'electronic',
+        description: 'Electric Daisy Carnival, commonly known as EDC, is an electronic dance music festival organized by promoter and distributor Insomniac. The annual flagship event, EDC Las Vegas, is held in May at the Las Vegas Motor Speedway, and is currently the largest electronic dance music festival in North America',
+        attendance: '400,000',
+        website: 'https://lasvegas.electricdaisycarnival.com/',
+        picture:'https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/02/01171129/EDCLV2021_1024_042113-7803_AGP_768x440.jpg',
+    },
+
+    'New Orleans Jazz & Heritage Festival': {
+        location: 'Fair Grounds Race Course, New Orleans',
+        date: 'April 28 - May 7, 2023',
+        genre: 'blues, R&B, gospel, Cajun, zydeco, Afro-Caribbean, folk, Latin, rock, rap, country, bluegrass and everything in between. And of course there is lots of jazz, both contemporary and traditional.',
+        description: 'The New Orleans Jazz & Heritage Festival presented by Shell, a/k/a Jazz Fest, is a 10-day cultural feast in which thousands of musicians, cooks and craftspeople welcome 400,000 visitors each year. The Louisiana Heritage Fair showcases unforgettable music on multiple stages, delicious Louisiana cuisine in two large food areas, and crafts artisans from the region and around the world demonstrating and selling their work. The Louisiana Heritage Fair is held at the Fair Grounds Race Course over the course of 2 weekends. They are April 29, April 30 & May 1 and May 5 – May 8, 2022.',
+        attendance: '425,000',
+        website: 'https://www.nojazzfest.com/',
+        picture:'https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/02/01171129/EDCLV2021_1024_042113-7803_AGP_768x440.jpg',
+    },
+
+    'Austin City Limits Music Festival': {
+        location: 'Zilker Park, Austin, Texas',
+        date: 'October 7-9 & 14-16, 2022',
+        genre: 'rock, indie, country, folk, electronic and hip hop',
+        description: 'The Austin City Limits Music Festival is an annual music festival held in Zilker Park in Austin, Texas on two consecutive three-day weekends. Inspired by the KLRU/PBS music series of the same name, the festival is produced by Austin-based company C3 Presents',
+        attendance: '165,000',
+        website: 'https://austincitylimits.com/',
+        picture:'https://assets-global.website-files.com/626ab670470f4322713394d1/627d1bed7f9de857bbb318ee_ACL22-Admat-0512_Main-1200x1500.png',
+    },
+
+    'Firefly Music Festival': {
+        location: 'Dover, Delaware',
+        date: 'September 22-24, 2022',
+        genre: 'rock, indie, country, folk, electronic and hip hop',
+        description: 'The Austin City Limits Music Festival is an annual music festival held in Zilker Park in Austin, Texas on two consecutive three-day weekends. Inspired by the KLRU/PBS music series of the same name, the festival is produced by Austin-based company C3 Presents',
+        attendance: '165,000',
+        website: 'https://fireflyfestival.com/',
+        picture:'https://aegwebprod.blob.core.windows.net/content/content_images/239/oSBXtJWem01K4YHVUPElv1crtvSHHEWQMHxXjekN.png',
+    },
+
+    'Pitchfork Music Festival': {
+        location: 'Union Park, Chicago',
+        date: 'July 15-17, 2022',
+        genre: 'alternative rock, indie rock, electronic, hip hop',
+        description: 'The Pitchfork Music Festival is an annual summer music festival organized by Pitchfork Media and held in Union Park in Chicago, Illinois. Starting in 2011, the festival announced a branch staged in Paris at Grande halle de la Villette.',
+        attendance: '60,000',
+        website: 'https://pitchforkmusicfestival.com/',
+        picture:'https://media.pitchfork.com/photos/622771d010cc5cd4d04eb2c2/master/pass/Pitchfork-Festival-2022-Lineup.png',
+    },
+
+    'Summerfest, The World\'s Largest Music Festival': {
+        location: 'Milwaukee, Wisconsin',
+        date: 'June 23 - July 9, 2022',
+        genre: 'alternative rock, indie rock, electronic, hip hop',
+        description: 'Summerfest is an annual music festival held in downtown Milwaukee, Wisconsin. First held in 1968, Summerfest is located at Henry Maier Festival Park, adjacent to Lake Michigan and Milwaukee\'s central business district.',
+        attendance: '45,000',
+        website: 'https://www.summerfest.com/lineup/',
+        picture:'https://pbs.twimg.com/media/FPBUXgJXMAYwe-h?format=jpg&name=4096x4096',
+    },
+
+    'Country Jam Colorado': {
+        location: 'Grand Junction, Colorado',
+        date: 'June 23 - 25, 2022',
+        genre: 'country',
+        description: 'Country Jam USA is a 3-day annual country music festival held in Eau Claire, Wisconsin. The first festival was held in 1990, making Country Jam USA one of the longest-running festivals in the country.',
+        attendance: '130,000',
+        website: 'https://countryjam.com/',
+        picture:'https://countryjam.com/wp-content/uploads/2021/10/MS_5506-UPDATED.jpg',
+    },
+
+    'Country Jam USA': {
+        location: 'Eau Claire, Colorado',
+        date: 'June 23 - 25, 2022',
+        genre: 'country',
+        description: 'Country Jam USA is a 3-day annual country music festival held in Eau Claire, Wisconsin. The first festival was held in 1990, making Country Jam USA one of the longest-running festivals in the country.',
+        attendance: '130,000',
+        website: 'https://countryjam.com/',
+        picture:'https://countryjam.com/wp-content/uploads/2021/10/MS_5506-UPDATED.jpg',
+    },
+
 }
     app.get('/', (req, res) => {
       res.sendFile(__dirname + '/index.html');
