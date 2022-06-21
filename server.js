@@ -175,6 +175,47 @@ const festivals = {
         'picture':'https://mma.prnewswire.com/media/1766386/Life_is_Beautiful_Lineup_Poster.jpg?w=400',
     },
 
+    'Stagecoach Festival': {
+        'location': 'Empire Polo Club, California',
+        'date': 'April 29 - Mayy 1, 2022',
+        'genre': 'folk, mainstream country, southern rock, bluegrass, roots rock, americana, alternative country',
+        'description': 'The Stagecoach Festival is an outdoor country music festival held annually at the Empire Polo Club in Indio, California. Various artists attend, whether they be mainstream or relatively unknown, ranging from folk, mainstream country, bluegrass, roots rock, americana and alternative country.',
+        'attendance': '80,000',
+        'website': 'https://www.stagecoachfestival.com/',
+        'picture':'https://images.ctfassets.net/nec7dfptn2hs/4UivGWGfMrKtyBqRRnHQX0/8296a709842d7fa5fde41e692d0e9f77/stagecoach_2022_1800x2400_v4.jpg',
+    },
+
+    'Stagecoach Festival': {
+        'location': 'Empire Polo Club, California',
+        'date': 'April 29 - May 1, 2022',
+        'genre': 'folk, mainstream country, southern rock, bluegrass, roots rock, americana, alternative country',
+        'description': 'The Stagecoach Festival is an outdoor country music festival held annually at the Empire Polo Club in Indio, California. Various artists attend, whether they be mainstream or relatively unknown, ranging from folk, mainstream country, bluegrass, roots rock, americana and alternative country.',
+        'attendance': '80,000',
+        'website': 'https://www.stagecoachfestival.com/',
+        'picture':'https://images.ctfassets.net/nec7dfptn2hs/4UivGWGfMrKtyBqRRnHQX0/8296a709842d7fa5fde41e692d0e9f77/stagecoach_2022_1800x2400_v4.jpg',
+    },
+
+    'Afro-Punk Festival': {
+        'location': 'Brooklyn, New York',
+        'date': 'September 10 - 11, 2022',
+        'genre': 'punk rock, alternative rock',
+        'description': 'Afropunk Festival was an annual arts festival that featured music, film, fashion, and art produced by black artists. Beginning in 2005 at the Brooklyn Academy of Music in New York, in later years Afropunk Festivals were also held in Atlanta, Paris and London',
+        'attendance': '60,000',
+        'website': 'https://afropunk.com/',
+        'picture':'https://cdn.vor.us/event/484382/dbbec02bcbbe4fcea5b73ef637a5baa5.image!jpeg.1947969.jpg.AP_BK_LINEUP_FULL_1000X1000.jpg',
+    },
+
+    'Boston Calling Music Festival': {
+        'location': 'Harvard Stadium, Boston, Massachusetts',
+        'date': 'September 10 - 11, 2022',
+        'genre': 'punk rock, alternative rock',
+        'description': 'Boston Calling Music Festival is a Boston-based music festival. The festival debuted in May 2013 and previously took place twice a year, May and September, at City Hall Plaza. The festival reportedly attracted 20–22,000 fans with its earlier editions, eventually drawing roughly 40,000 festival goers in 2017.',
+        'attendance': '60,000',
+        'website': 'https://afropunk.com/',
+        'picture':'https://cdn.vor.us/event/484382/dbbec02bcbbe4fcea5b73ef637a5baa5.image!jpeg.1947969.jpg.AP_BK_LINEUP_FULL_1000X1000.jpg',
+    },
+
+
 }
     app.get('/', (req, res) => {
       res.sendFile(__dirname + '/index.html');
