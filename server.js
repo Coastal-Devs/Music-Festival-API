@@ -208,12 +208,43 @@ const festivals = {
     'Boston Calling Music Festival': {
         'location': 'Harvard Stadium, Boston, Massachusetts',
         'date': 'September 10 - 11, 2022',
-        'genre': 'punk rock, alternative rock',
+        'genre': 'rock, hip hop, indie',
         'description': 'Boston Calling Music Festival is a Boston-based music festival. The festival debuted in May 2013 and previously took place twice a year, May and September, at City Hall Plaza. The festival reportedly attracted 20–22,000 fans with its earlier editions, eventually drawing roughly 40,000 festival goers in 2017.',
-        'attendance': '60,000',
-        'website': 'https://afropunk.com/',
-        'picture':'https://cdn.vor.us/event/484382/dbbec02bcbbe4fcea5b73ef637a5baa5.image!jpeg.1947969.jpg.AP_BK_LINEUP_FULL_1000X1000.jpg',
+        'attendance': '40,000',
+        'website': 'https://bostoncalling.com/',
+        'picture':'https://bostoncalling.com/wp-content/uploads/2022/04/BC2022_Food-Admat_OriginalSize_V3-e1650469580588.jpg',
     },
+
+    'Riot Fest': {
+        'location': 'Douglass Park, Chicago, Illinois',
+        'date': 'September 16 - 18, 2022',
+        'genre': 'punk rock, rock, alternative rock',
+        'description': 'Riot Fest is an annual three-day music festival based in Chicago, Illinois, at Douglass Park. First started as a multi-venue festival in Chicago in 2005, Riot Fest has since become an outdoor festival starting in 2012, later expanding to Denver and Toronto until 2017, specializing in rock, punk, alternative rock, and hip hop.',
+        'attendance': '120,000',
+        'website': 'https://riotfest.org/',
+        'picture':'https://riotfest.org/wp-content/uploads/2022/05/riot-fest-2022-lineup-daily.jpg',
+    },
+
+    'Country Stampede Music Festival': {
+        'location': 'Topeka, Kansas',
+        'date': 'July 14-16, 2022',
+        'genre': 'punk rock, rock, alternative rock',
+        'description': 'The Country Stampede is an annual 3-day outdoor music and camping festival that takes place in Topeka, Kansas. The well-respected Country Stampede is nationally known as one of the largest music festivals in the Midwest and has grown to almost 400 acres. The BIGGEST names in country music have performed on stage such as Kenny Chesney, Miranda Lambert, Reba McEntire, Taylor Swift, Chris Stapleton, Jason Aldean,  Florida Georgia Line, Luke Bryan and so many more. Country Stampede won the coveted 2014 Governor’s Outstanding Tourism Event award in the State of Kansas, along with countless other awards over the years.  Television shows such as The CMT Top 20 Countdown, Ellen, The Outdoor Channel, and several other popular television shows have filmed and broadcast live from the festival.',
+        'attendance': '170,000',
+        'website': 'https://www.countrystampede.com/',
+        'picture':'https://pbs.twimg.com/media/FJ-uU27XoAATmbd.jpg:large',
+    },
+
+    'Rooster Walk Music Festival': {
+        'location': 'Axton, VA',
+        'date': 'May 26-29, 2022',
+        'genre': 'art, food, craft beer, camping, disc golf, kid\'s activities',
+        'description': 'Making the most of a tragic situation, that\'s how Rooster Walk came about. The Rooster Walk Music and Arts Festival was created in memory of two of our best childhood friends who passed away while still in their 20s: Edwin “the Rooster” Penn and Walker Shank. This festival celebrates life and the notion that you shouldn\'t waste a moment of it.',
+        'attendance': '1,226,000',
+        'website': 'https://roosterwalk.com/',
+        'picture':'https://roosterwalk.com/rooster-press/wp-content/uploads/2022/05/RW12-Poster-Final.jpg',
+    },
+
 
 
 }
