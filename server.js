@@ -124,15 +124,48 @@ const festivals = {
         picture:'https://countryjam.com/wp-content/uploads/2021/10/MS_5506-UPDATED.jpg',
     },
 
-    'Country Jam USA': {
-        location: 'Eau Claire, Colorado',
-        date: 'June 23 - 25, 2022',
-        genre: 'country',
-        description: 'Country Jam USA is a 3-day annual country music festival held in Eau Claire, Wisconsin. The first festival was held in 1990, making Country Jam USA one of the longest-running festivals in the country.',
-        attendance: '130,000',
-        website: 'https://countryjam.com/',
-        picture:'https://countryjam.com/wp-content/uploads/2021/10/MS_5506-UPDATED.jpg',
+    'Hangout Music Festival': {
+        location: 'Gulf Shores, Alabama',
+        date: 'May 19-21, 2003',
+        genre: 'rock, alternative, electronic dance music, indie, hip hop, jam bands, reggae',
+        description: 'Hangout Fest 2023 features great indie rock, hip-hop and electronic music. You can soak up the sun while you listen to great music on a great beach in the Gulf of Mexico! Hangout Fest also has a lot of things to do in addition to music, which you can learn more about below.',
+        attendance: '40,000',
+        website: 'http://www.thespacelab.tv/spaceLAB/theSHOW/MusicFestivals/Hangout-Fest-2023-Lineup-Tickets-Schedule-Dates.html',
+        picture:'https://pbs.twimg.com/media/FGQla9iXoAkP5DF?format=jpg&name=medium',
     },
+
+    'Outside Lands Music and Arts Festival': {
+        location: 'Golden Gate Park, San Francisco',
+        date: 'August 5-7, 2022',
+        genre: 'electronic music and visual artists',
+        description: 'The Outside Lands Music and Arts Festival is a music festival held annually in San Francisco, California, at Golden Gate Park. The festival is produced by Another Planet Entertainment, Superfly Presents, and Starr Hill Presents. It is the largest independently owned music festival in the US.',
+        attendance: '200,000',
+        website: 'https://www.sfoutsidelands.com/',
+        picture:'https://pbs.twimg.com/media/FS-aBO-WAAAQugc?format=jpg&name=4096x4096',
+    },
+
+
+    'Electric Zoo': {
+        location: 'Randall\'s Island, NYC',
+        date: 'September 2-4, 2022',
+        genre: 'electric',
+        description: 'Electric Zoo is an annual electronic music festival held over Labor Day weekend in New York City on Randall\'s Island. The festival represents all genres of electronic music, bringing top international DJs and live acts from multiple countries to four stages.',
+        attendance: '85,000',
+        website: 'https://electriczoo.com/',
+        picture:'https://electriczoo.com/wp-content/uploads/2022/06/EZoo2022_StageByStageLineup_4x5.png',
+    },
+
+    'The RIDE Festival': {
+        location: 'Telluride, Colorado',
+        date: 'July 6-10, 2022',
+        genre: 'rock and roll',
+        description: 'Since its debut in 2012, The RIDE Festival has quickly garnered a reputation among music fans for its thoughtful performance curation, handpicking rootsy, rocking talent whose music flawlessly compliments the festivals stunning Telluride, Colorado setting. Past RIDE Festival lineups have included such acts as Pearl Jam, Cage the Elephant, Widespread Panic, David Byrne and St. Vincent, Edward Sharpe & the Magnetic Zeros, Ben Harper, Thievery Corporation, North Mississippi Allstars, The Lumineers, Rodrigo y Gabriela, Drive-By-Truckers, Cake, Los Lobos, Steve Earle, among others. In addition to stellar live music, The RIDE Festivals close proximity to the many outdoor activities that Telluride and Southern Colorado have to offer help make the festival a unique destination event. Attendees can enjoy hiking, biking, hot springs, and so much more all in a truly majestic setting.',
+        attendance: '8,000',
+        website: 'https://ridefestival.com/',
+        picture:'https://ridefestival.com/wp-content/uploads/2022/06/ride-fest_banner1-700.jpg',
+    },
+
+
 
 }
     app.get('/', (req, res) => {
