@@ -264,14 +264,14 @@ const festivals = {
         'picture':'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F221041619%2F139473750547%2F1%2Foriginal.20220131-083253?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ceffa889096e755f3a264be8e335905c',
     },
 
-    'Stilldream Festival': {
-        'location': 'Beldon, California',
-        'date': 'June 23-27, 2022',
-        'genre': 'music, community, nature, culture and consciousness',
-        'description': 'For twenty years, Stilldream Festival has been an oasis of chill in California. The festival takes place over the summer solstice and features camping in the beautiful mountains around Belden.',
-        'attendance': '?',
-        'website': 'https://www.musicfestivalwizard.com/festivals/stilldream-festival-2022/',
-        'picture':'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F221041619%2F139473750547%2F1%2Foriginal.20220131-083253?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ceffa889096e755f3a264be8e335905c',
+    'Electric Forest': {
+        'location': 'Rothbury, Michigan',
+        'date': 'June 23-26, 2022',
+        'genre': 'jam and rock',
+        'description': 'Electric Forest is a four-day and one-weekend multi-genre event with a focus on electronic music and jam band genres. It is held in Rothbury, Michigan at the Double JJ Resort. The original event debuted in 2008, under the name Rothbury Festival, and focused on jam bands and rock bands',
+        'attendance': '40,000',
+        'website': 'https://electricforestfestival.com/',
+        'picture':'https://electricforestfestival.com/wp-content/uploads/2022/06/EF-Flattened-Final-Poster.jpg',
     },
 
 
