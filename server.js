@@ -274,6 +274,26 @@ const festivals = {
         'picture':'https://electricforestfestival.com/wp-content/uploads/2022/06/EF-Flattened-Final-Poster.jpg',
     },
 
+    'Blue Ox Music Festival': {
+        'location': 'Eau Claire, Wisconsin',
+        'date': 'June 23-26, 2022',
+        'genre': 'bluegrass, americana',
+        'description': 'Bluegrass band, Pert Near Sandstone, hosts the Blue Ox Music Festival just outside of Eau Claire, Wisconsin. The Whispering Pines Campground brings back festies each year with its hammock-handy shade trees and the peace of the central pond. This small sized festival is beloved for its cozy size and excellent bluegrass lineup.',
+        'attendance': '4,000',
+        'website': 'https://www.blueoxmusicfestival.com/',
+        'picture':'https://www.musicfestivalwizard.com/wp-content/uploads/2021/10/Blue-Ox-2022-Lineup-Poster.jpgg',
+    },
+
+    'Green River Music Festival': {
+        'location': 'Franklin County Fairgrounds, Massachusetts',
+        'date': 'June 24-26, 2022',
+        'genre': 'bluegrass, americana',
+        'description': 'Named one of “fifty essential summer music festivals” by The New York Times, Green River Festival is Western Massachusetts\' signature summer event. Celebrating its 35th year this June, Green River is a fantastic celebration of music and community: a world-class lineup of over 30 acts on three stages, the best in local food, beer and wine, handmade juried crafts at The Makers Market, a wide array of kid\'s music and activities, and camping. Come see why NPR recently wrote, "The Green River Festival lineup gets more legendary by the year."',
+        'attendance': '4,000',
+        'website': 'https://www.greenriverfestival.com/',
+        'picture':'https://images.squarespace-cdn.com/content/v1/61d5ea6050d90f16e14772cb/70fe0539-b53f-4938-b580-3805b0f6663c/LakeStreetDive-dates.jpg?format=1500w',
+    },
+
 
 
 
