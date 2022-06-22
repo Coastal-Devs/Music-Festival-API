@@ -244,6 +244,18 @@ const festivals = {
         'picture':'https://roosterwalk.com/rooster-press/wp-content/uploads/2022/05/RW12-Poster-Final.jpg',
     },
 
+    'Kate Wolf Music Festival': {
+        'location': 'Black Oak Ranch, Laytonville, California',
+        'date': 'June 23-26, 2022',
+        'genre': 'folk music',
+        'description': 'In June of 1996, the Kate Wolf Retrospective Concert was held to celebrate the music of Kate Wolf. Her friends, family, and a sold-out crowd had such a wonderful time that we decided to make it an annual event. Thus was born the Kate Wolf Music Festival. Kate\'s family invites you to come to the next festival. We hope to see you there!',
+        'attendance': '5,000',
+        'website': 'https://katewolfmusicfestival.com/',
+        'picture':'https://katewolfmusicfestival.com/wp-content/plugins/wp_roksprocket/cache/52e77842ea1b628e10cd3b9a772962c4_0_600.jpg',
+    },
+
+    
+
 
 
 }
