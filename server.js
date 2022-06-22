@@ -254,7 +254,26 @@ const festivals = {
         'picture':'https://katewolfmusicfestival.com/wp-content/plugins/wp_roksprocket/cache/52e77842ea1b628e10cd3b9a772962c4_0_600.jpg',
     },
 
-    
+    'Stilldream Festival': {
+        'location': 'Beldon, California',
+        'date': 'June 23-27, 2022',
+        'genre': 'music, community, nature, culture and consciousness',
+        'description': 'For twenty years, Stilldream Festival has been an oasis of chill in California. The festival takes place over the summer solstice and features camping in the beautiful mountains around Belden.',
+        'attendance': '?',
+        'website': 'https://www.musicfestivalwizard.com/festivals/stilldream-festival-2022/',
+        'picture':'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F221041619%2F139473750547%2F1%2Foriginal.20220131-083253?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ceffa889096e755f3a264be8e335905c',
+    },
+
+    'Stilldream Festival': {
+        'location': 'Beldon, California',
+        'date': 'June 23-27, 2022',
+        'genre': 'music, community, nature, culture and consciousness',
+        'description': 'For twenty years, Stilldream Festival has been an oasis of chill in California. The festival takes place over the summer solstice and features camping in the beautiful mountains around Belden.',
+        'attendance': '?',
+        'website': 'https://www.musicfestivalwizard.com/festivals/stilldream-festival-2022/',
+        'picture':'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F221041619%2F139473750547%2F1%2Foriginal.20220131-083253?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ceffa889096e755f3a264be8e335905c',
+    },
+
 
 
 
