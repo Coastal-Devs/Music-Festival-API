@@ -101,7 +101,8 @@ const festivals = {
         'picture':'https://aegwebprod.blob.core.windows.net/content/content_images/239/oSBXtJWem01K4YHVUPElv1crtvSHHEWQMHxXjekN.png',
     },
 
-    'Pitchfork Music Festival': {
+    'alternative rock, indie rock, electronic, hip hop': {
+        'name': 'Pitchfork Music Festival',
         'location': 'Union Park, Chicago',
         'date': 'July 15-17, 2022',
         'genre': 'alternative rock, indie rock, electronic, hip hop',
@@ -111,7 +112,8 @@ const festivals = {
         'picture':'https://media.pitchfork.com/photos/622771d010cc5cd4d04eb2c2/master/pass/Pitchfork-Festival-2022-Lineup.png',
     },
 
-    'Summerfest, The World\'s Largest Music Festival': {
+    'alternative rock, indie rock, electronic, hip hop': {
+        'name': 'Summerfest, The World\'s Largest Music Festival',
         'location': 'Milwaukee, Wisconsin',
         'date': 'June 23 - July 9, 2022',
         'genre': 'alternative rock, indie rock, electronic, hip hop',
@@ -121,7 +123,8 @@ const festivals = {
         'picture':'https://pbs.twimg.com/media/FPBUXgJXMAYwe-h?format=jpg&name=4096x4096',
     },
 
-    'Country Jam Colorado': {
+    'country': {
+        'name': 'Country Jam Colorado',
         'location': 'Grand Junction, Colorado',
         'date': 'June 23 - 25, 2022',
         'genre': 'country',
@@ -131,7 +134,8 @@ const festivals = {
         'picture':'https://countryjam.com/wp-content/uploads/2021/10/MS_5506-UPDATED.jpg',
     },
 
-    'Hangout Music Festival': {
+    'rock, alternative, electronic dance music, indie, hip hop, jam bands, reggae': {
+        'name':  'Hangout Music Festival',
         'location': 'Gulf Shores, Alabama',
         'date': 'May 19-21, 2003',
         'genre': 'rock, alternative, electronic dance music, indie, hip hop, jam bands, reggae',
@@ -141,7 +145,8 @@ const festivals = {
         'picture':'https://pbs.twimg.com/media/FGQla9iXoAkP5DF?format=jpg&name=medium',
     },
 
-    'Outside Lands Music and Arts Festival': {
+    'electronic music and visual artists': {
+        'name': 'Outside Lands Music and Arts Festival',
         'location': 'Golden Gate Park, San Francisco',
         'date': 'August 5-7, 2022',
         'genre': 'electronic music and visual artists',
@@ -152,7 +157,8 @@ const festivals = {
     },
 
 
-    'Electric Zoo': {
+    'electronic': {
+        'name': 'Electric Zoo',
         'location': 'Randall\'s Island, NYC',
         'date': 'September 2-4, 2022',
         'genre': 'electric',
@@ -162,7 +168,8 @@ const festivals = {
         'picture':'https://electriczoo.com/wp-content/uploads/2022/06/EZoo2022_StageByStageLineup_4x5.png',
     },
 
-    'The RIDE Festival': {
+    'rock and roll': {
+        'name': 'The RIDE Festival',
         'location': 'Telluride, Colorado',
         'date': 'July 6-10, 2022',
         'genre': 'rock and roll',
@@ -172,7 +179,8 @@ const festivals = {
         'picture':'https://ridefestival.com/wp-content/uploads/2022/06/ride-fest_banner1-700.jpg',
     },
 
-    'Life is Beautiful Music and Arts Festival': {
+    'music, culinary art, comedy, learning festival': {
+        'name':  'Life is Beautiful Music and Arts Festival',
         'location': 'Downtown, Las Vegas',
         'date': 'September 16-18, 2022',
         'genre': 'music, culinary art, comedy, learning festival',
@@ -182,7 +190,8 @@ const festivals = {
         'picture':'https://mma.prnewswire.com/media/1766386/Life_is_Beautiful_Lineup_Poster.jpg?w=400',
     },
 
-    'Stagecoach Festival': {
+    'folk, mainstream country, southern rock, bluegrass, roots rock, americana, alternative country': {
+        'name': 'Stagecoach Festival',
         'location': 'Empire Polo Club, California',
         'date': 'April 29 - Mayy 1, 2022',
         'genre': 'folk, mainstream country, southern rock, bluegrass, roots rock, americana, alternative country',
