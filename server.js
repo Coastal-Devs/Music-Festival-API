@@ -311,7 +311,7 @@ const festivals = {
         'picture':'https://www.musicfestivalwizard.com/wp-content/uploads/2021/10/Blue-Ox-2022-Lineup-Poster.jpgg',
     },
 
-    'bluegrass, americana': {
+    'bluegrass, folk, americana': {
         'name': 'Green River Music Festival',
         'location': 'Franklin County Fairgrounds, Massachusetts',
         'date': 'June 24-26, 2022',
