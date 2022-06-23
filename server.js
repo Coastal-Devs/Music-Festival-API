@@ -201,7 +201,8 @@ const festivals = {
         'picture':'https://images.ctfassets.net/nec7dfptn2hs/4UivGWGfMrKtyBqRRnHQX0/8296a709842d7fa5fde41e692d0e9f77/stagecoach_2022_1800x2400_v4.jpg',
     },
 
-    'Stagecoach Festival': {
+    'folk, mainstream country, southern rock, bluegrass, roots rock, americana, alternative country': {
+        'name': 'Stagecoach Festivals',
         'location': 'Empire Polo Club, California',
         'date': 'April 29 - May 1, 2022',
         'genre': 'folk, mainstream country, southern rock, bluegrass, roots rock, americana, alternative country',
@@ -211,7 +212,8 @@ const festivals = {
         'picture':'https://images.ctfassets.net/nec7dfptn2hs/4UivGWGfMrKtyBqRRnHQX0/8296a709842d7fa5fde41e692d0e9f77/stagecoach_2022_1800x2400_v4.jpg',
     },
 
-    'Afro-Punk Festival': {
+    'punk rock, alternative rock': {
+        'name': 'Afro-Punk Festival',
         'location': 'Brooklyn, New York',
         'date': 'September 10 - 11, 2022',
         'genre': 'punk rock, alternative rock',
@@ -221,7 +223,8 @@ const festivals = {
         'picture':'https://cdn.vor.us/event/484382/dbbec02bcbbe4fcea5b73ef637a5baa5.image!jpeg.1947969.jpg.AP_BK_LINEUP_FULL_1000X1000.jpg',
     },
 
-    'Boston Calling Music Festival': {
+    'rock, hip hop, indie': {
+        'name': 'Boston Calling Music Festival',
         'location': 'Harvard Stadium, Boston, Massachusetts',
         'date': 'September 10 - 11, 2022',
         'genre': 'rock, hip hop, indie',
@@ -231,7 +234,8 @@ const festivals = {
         'picture':'https://bostoncalling.com/wp-content/uploads/2022/04/BC2022_Food-Admat_OriginalSize_V3-e1650469580588.jpg',
     },
 
-    'Riot Fest': {
+    'punk rock, rock, alternative rock': {
+        'name': 'Riot Fest',
         'location': 'Douglass Park, Chicago, Illinois',
         'date': 'September 16 - 18, 2022',
         'genre': 'punk rock, rock, alternative rock',
@@ -241,7 +245,8 @@ const festivals = {
         'picture':'https://riotfest.org/wp-content/uploads/2022/05/riot-fest-2022-lineup-daily.jpg',
     },
 
-    'Country Stampede Music Festival': {
+    'punk rock, rock, alternative rock': {
+        'name': 'Country Stampede Music Festival',
         'location': 'Topeka, Kansas',
         'date': 'July 14-16, 2022',
         'genre': 'punk rock, rock, alternative rock',
@@ -251,7 +256,8 @@ const festivals = {
         'picture':'https://pbs.twimg.com/media/FJ-uU27XoAATmbd.jpg:large',
     },
 
-    'Rooster Walk Music Festival': {
+    'art, food, craft beer, camping, disc golf, kid\'s activities': {
+        'name': 'Rooster Walk Music Festival',
         'location': 'Axton, VA',
         'date': 'May 26-29, 2022',
         'genre': 'art, food, craft beer, camping, disc golf, kid\'s activities',
@@ -261,7 +267,8 @@ const festivals = {
         'picture':'https://roosterwalk.com/rooster-press/wp-content/uploads/2022/05/RW12-Poster-Final.jpg',
     },
 
-    'Kate Wolf Music Festival': {
+    'folk music': {
+        'name': 'Kate Wolf Music Festival',
         'location': 'Black Oak Ranch, Laytonville, California',
         'date': 'June 23-26, 2022',
         'genre': 'folk music',
@@ -271,7 +278,8 @@ const festivals = {
         'picture':'https://katewolfmusicfestival.com/wp-content/plugins/wp_roksprocket/cache/52e77842ea1b628e10cd3b9a772962c4_0_600.jpg',
     },
 
-    'Stilldream Festival': {
+    'music, community, nature, culture and consciousness': {
+        'name': 'Stilldream Festival',
         'location': 'Beldon, California',
         'date': 'June 23-27, 2022',
         'genre': 'music, community, nature, culture and consciousness',
@@ -281,7 +289,8 @@ const festivals = {
         'picture':'https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F221041619%2F139473750547%2F1%2Foriginal.20220131-083253?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ceffa889096e755f3a264be8e335905c',
     },
 
-    'Electric Forest': {
+    'jam and rock': {
+        'name': 'Electric Forest',
         'location': 'Rothbury, Michigan',
         'date': 'June 23-26, 2022',
         'genre': 'jam and rock',
@@ -291,7 +300,8 @@ const festivals = {
         'picture':'https://electricforestfestival.com/wp-content/uploads/2022/06/EF-Flattened-Final-Poster.jpg',
     },
 
-    'Blue Ox Music Festival': {
+    'bluegrass, americana': {
+        'name': 'Blue Ox Music Festival',
         'location': 'Eau Claire, Wisconsin',
         'date': 'June 23-26, 2022',
         'genre': 'bluegrass, americana',
@@ -301,7 +311,8 @@ const festivals = {
         'picture':'https://www.musicfestivalwizard.com/wp-content/uploads/2021/10/Blue-Ox-2022-Lineup-Poster.jpgg',
     },
 
-    'Green River Music Festival': {
+    'bluegrass, americana': {
+        'name': 'Green River Music Festival',
         'location': 'Franklin County Fairgrounds, Massachusetts',
         'date': 'June 24-26, 2022',
         'genre': 'bluegrass, americana',
