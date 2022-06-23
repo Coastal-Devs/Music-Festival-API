@@ -46,7 +46,8 @@ const festivals = {
         'picture':'https://ultramusicfestival.com/wp-content/uploads/2022/03/2022_MIA_Billing_PH3_V1-3-scaled.jpg',
     },
 
-    'Bonnaroo Music and Arts Festival': {
+    'electronic': {
+        'name': 'Bonnaroo Music and Arts Festival',
         'location': 'Great Stage Park, Manchester, Tennessee',
         'date': 'June 16-19, 2022',
         'genre': 'electronic',
@@ -56,7 +57,8 @@ const festivals = {
         'picture':'https://assets-global.website-files.com/5e94ab5e53b1514c1704e66e/6272d25bda78ee2077b58168_b22-lineup-v5_Press-p-1080.png',
     },
 
-    'EDC Las Vegas': {
+    'electronic': {
+        'name': 'EDC Las Vegas',
         'location': 'Las Vegas',
         'date': 'May 19-21, 2023',
         'genre': 'electronic',
@@ -66,7 +68,8 @@ const festivals = {
         'picture':'https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/02/01171129/EDCLV2021_1024_042113-7803_AGP_768x440.jpg',
     },
 
-    'New Orleans Jazz & Heritage Festival': {
+    'blues, R&B, gospel, Cajun, zydeco, Afro-Caribbean, folk, Latin, rock, rap, country, bluegrass and everything in between. And of course there is lots of jazz, both contemporary and traditional.': {
+        'name': 'New Orleans Jazz & Heritage Festival',
         'location': 'Fair Grounds Race Course, New Orleans',
         'date': 'April 28 - May 7, 2023',
         'genre': 'blues, R&B, gospel, Cajun, zydeco, Afro-Caribbean, folk, Latin, rock, rap, country, bluegrass and everything in between. And of course there is lots of jazz, both contemporary and traditional.',
@@ -76,7 +79,8 @@ const festivals = {
         'picture':'https://d3vhc53cl8e8km.cloudfront.net/hello-staging/wp-content/uploads/sites/21/2022/02/01171129/EDCLV2021_1024_042113-7803_AGP_768x440.jpg',
     },
 
-    'Austin City Limits Music Festival': {
+    'rock, indie, country, folk, electronic and hip hop': {
+        'name': 'Austin City Limits Music Festival',
         'location': 'Zilker Park, Austin, Texas',
         'date': 'October 7-9 & 14-16, 2022',
         'genre': 'rock, indie, country, folk, electronic and hip hop',
@@ -86,7 +90,8 @@ const festivals = {
         'picture':'https://assets-global.website-files.com/626ab670470f4322713394d1/627d1bed7f9de857bbb318ee_ACL22-Admat-0512_Main-1200x1500.png',
     },
 
-    'Firefly Music Festival': {
+    'rock, indie, country, folk, electronic and hip hop': {
+        'name': 'Firefly Music Festival',
         'location': 'Dover, Delaware',
         'date': 'September 22-24, 2022',
         'genre': 'rock, indie, country, folk, electronic and hip hop',
